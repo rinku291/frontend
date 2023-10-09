@@ -34,6 +34,7 @@ function Mobiles() {
         setCount(response.data.products.length);
     }
 
+    console.log(products);
     console.log(products);   
 
     return (
