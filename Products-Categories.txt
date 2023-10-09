@@ -1,0 +1,429 @@
+1)Grocery
+null
+id 64ecbaa4100522dae98915d6
+/assets/Grocery.webp
+true
+
+Subcat:-
+Snacks & Beverages
+Packaged Food
+Household Care
+Dairy & Eggs
+
+2)Mobiles
+/assets/Mobiles.webp
+64ecc9aa962a740752270ced
+
+Subcat
+Samsung
+Mi
+Oppo
+Vivo
+Apple
+
+
+
+3)Fashion
+/assets/Fashion.webp
+64ecc9d1962a740752270cef
+
+4)Electronics
+/assets/Electronics.webp
+Electronincs
+64ecc9f4962a740752270cf1
+
+5)Home & Furniture
+/assets/Home-Fur.webp
+
+6)Appliances
+/assets/Appliances.webp
+
+7)Travel
+/assets/Travel.webp
+
+8)Beauty, Toys & More
+/assets/Beauty-Toys.webp
+
+9)Two Wheelers
+/assets/TwoWheelers.webp
+
+Subcategories:-
+1)
+Fashion
+64ecc9d1962a740752270cef
+true
+
+All
+Women Ethnic
+Women Western
+Men's Ethnic
+Men's Formal Shirts
+Men's Bottom wear
+
+2)
+Electronics
+64ecc9f4962a740752270cf1
+
+All
+Camera & Accesories
+Computer Peripherals
+Laptop & Desktop
+Home Theaters
+Mobile Accessory
+
+3)
+Home & Furniture
+64ecca7f962a740752270cfa
+
+All
+Blankets
+Bed Linens
+Bedroom Furniture
+Home Decor
+Kitchen & Dining
+
+4)
+Beauty, Toys & More
+64eccae5962a740752270d00
+All
+Men's Grooming
+Food & Drinks
+Sports & Fitness
+Books 
+Music
+
+5)
+Two wheelers
+64eccafb962a740752270d02
+Petrol Vehicles
+Electric Vehicles
+
+
+
+
+=================================================Top Categories Home Page======================================================
+
+1)
+Best of Electronics
+64ecd461962a740752270d5f
+
+2)
+Beauty, Food, Toys & more
+64ecd473962a740752270d61
+
+3)
+Get Set For Sports
+64ecd47e962a740752270d63
+
+
+4)
+Rakhi Gifting Specials
+64ecd488962a740752270d65
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                                                       Product Subcategories Home Page
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+=>Best of Electronics
+
+1)
+Monitors
+https://rukminim2.flixcart.com/image/200/200/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70
+64ecd461962a740752270d5f
+From ₹7949
+Lenovo
+
+2)
+Top Mirrorless Cameras
+https://rukminim2.flixcart.com/image/200/200/kihqz680/dslr-camera/g/z/t/alpha-7siii-ilce-7sm3-bq-in5-sony-original-imafya2qhvjjmruh.jpeg?q=70
+64ecd461962a740752270d5f
+Shop Now!
+Canon, Sony, Fujifilm...
+
+3)
+Best of Trimmers
+https://rukminim2.flixcart.com/flap/200/200/image/20c224cd52ae7a87.jpg?q=70
+64ecd461962a740752270d5f
+From ₹399
+realme, Mi, Philips & more
+
+4)
+Premium PowerBanks
+https://rukminim2.flixcart.com/image/200/200/xif0q/power-bank/d/a/f/-original-imagky3e8yp5ebvr.jpeg?q=70
+64ecd461962a740752270d5f
+Shop Now
+Mi, realme & more
+
+5)
+Printers
+https://rukminim2.flixcart.com/image/200/200/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70
+64ecd461962a740752270d5f
+From ₹3999
+HP
+
+6)
+Monitors
+https://rukminim2.flixcart.com/image/200/200/xif0q/monitor/x/y/o/ls49a950uiwxxl-uwqhd-49-ls49a950uiwxxl-samsung-original-imagz8ydgfwg5en2.jpeg?q=70
+64ecd461962a740752270d5f
+From ₹9999
+SAMSUNG
+
+7)
+Monitor
+https://rukminim2.flixcart.com/image/200/200/kvcpn680/monitor/x/q/n/aw2721d-wqhd-27-210-axtq-dell-original-imag89mgkzehp4gq.jpeg?q=70
+64ecd461962a740752270d5f
+From ₹8279
+DELL
+
+8)
+ASUS Monitors
+https://rukminim2.flixcart.com/image/200/200/kyxb9u80/monitor/y/h/h/rog-strix-xg27aqm-wqhd-27-90lm06u5-b01310-asus-original-imagbfnfsrm5cf8b.jpeg?q=70
+64ecd461962a740752270d5f
+Top Rated From ₹14999
+
+
+++++++++++++++++++++++++++++++++++++++++Beauty, Food, Toys & more+++++++++++++++++++++++++++++++++++++++++++
+64ecd473962a740752270d61
+
+
+
+
+Beauty, Food, Toys & more
+VIEW ALL
+
+
+
+
+1)
+Top Selling Stationery
+https://rukminim2.flixcart.com/image/200/200/kx50gi80/pen/h/z/k/119766-flair-original-imag9nzubznagufg.jpeg?q=70
+64ecd473962a740752270d61
+From ₹49
+Pens, Notebooks & more
+
+2)
+Geared Cycles
+https://rukminim2.flixcart.com/image/200/200/l111lzk0/cycle/m/r/e/xc-900-grey-lite-26-15-5-cradiac-21-gear-120-original-imagczuzpxeweczm.jpeg?q=70
+64ecd473962a740752270d61
+From ₹ 3999
+Leader, Cradiac & more
+
+3)
+Electric Cycle
+https://rukminim2.flixcart.com/image/200/200/l58iaa80/electric-cycle/i/y/f/-original-imagfykthgudy4qz.jpeg?q=70
+64ecd473962a740752270d61
+Up to 40% Off
+Nuze, Motovolt & more
+
+4)
+Remote Control Toys
+https://rukminim2.flixcart.com/image/200/200/k0plpjk0/remote-control-toy/9/g/k/4-function-remote-control-high-speed-big-racing-car-toy-funkey-original-imafkg33umd8dy93.jpeg?q=70
+64ecd473962a740752270d61
+Up to 80% Off
+Buy Now!
+
+5)
+Tyres
+https://rukminim2.flixcart.com/image/200/200/k7w8eq80/two-wheeler-tyre/v/y/s/90-90-12-106061-milaze-tl-54j-sw-ceat-original-imafqyx5tnfraaxh.jpeg?q=70
+64ecd473962a740752270d61
+From 799
+Apollo, Bridgestone, Ceat
+
+6)
+Tricycles & Rideons
+https://rukminim2.flixcart.com/image/200/200/kzegk280/action-figure/9/v/t/3-30155-mcfarlane-2-5-original-imagbeyyzehpyk2m.jpeg?q=70
+64ecd473962a740752270d61
+Up to 70% Off
+Figurines, Battle Toys & more
+
+7)
+Dry Fruits
+https://rukminim2.flixcart.com/image/200/200/k6fd47k0/nut-dry-fruit/p/z/7/200-100-natural-california-pouch-happilo-original-imafzvw2tcazeur6.jpeg?q=70
+64ecd473962a740752270d61
+Upto 75% Off
+Happilo, Farmley & More
+
+8)
+Gym Essentials
+https://rukminim2.flixcart.com/image/200/200/kdbzqfk0/bar/8/h/q/push-up-bar-0-8-long-ankaro-original-imafu9dmvdk3rzvy.jpeg?q=70
+64ecd473962a740752270d61
+From ₹139
+Shop Now
+
++++++++++++++++++++++++++++++++++++++++++++++++Get Set For Sports+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+64ecd47e962a740752270d63
+
+
+
+
+1)
+Men's Track Pants
+https://rukminim2.flixcart.com/image/200/200/xif0q/track-pant/m/2/h/5xl-tnvjogj35-bljogj36-tripr-original-imagmenpxqsbq3yz.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+2)
+Men's T-shirts
+https://rukminim2.flixcart.com/image/200/200/xif0q/t-shirt/r/v/k/m-ausk0165-ausk-original-imaghu9fbhcgf2za.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+3)
+Men's Sweatshirts
+https://rukminim2.flixcart.com/image/200/200/xif0q/sweatshirt/r/l/p/s-2545-s-hip-hop-fashoin-original-imagmzzz7dzayh6h.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+4)
+Electric Cycle
+https://rukminim2.flixcart.com/image/200/200/xif0q/electric-cycle/g/m/h/-original-imagrzvg7gzhzyqj.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 40% Off
+
+5)
+Kids' Shorts
+https://rukminim2.flixcart.com/image/200/200/l2hwwi80/kids-short/t/j/g/1-2-years-shorts-10-huxx-original-imagdtxndfdkhwqf.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+6)
+Men's Shorts
+https://rukminim2.flixcart.com/image/200/200/xif0q/short/v/x/0/xxl-s-1-dg-b-n-combo3-karwa-original-imagpxbgs3prs5cj.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+7)
+Adult Cycles
+https://rukminim2.flixcart.com/image/200/200/xif0q/cycle/k/t/b/-original-imagrzvjjvvxvwa2.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+8)
+Kids Cycles
+https://rukminim2.flixcart.com/image/200/200/kvifekw0/cycle/b/6/n/14-t-rocky-carrier-sky-blue-pvc-for-2-to-5-year-kids-14-13-original-imag8e2hqjqxxbht.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+9)
+Women's Tracksuits
+https://rukminim2.flixcart.com/image/200/200/xif0q/track-suit/x/i/q/l-queen-baby-dtr-fashion-original-imaghrkwcmmngnzq.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+10)
+Protein Supplement
+https://rukminim2.flixcart.com/image/200/200/xif0q/protein-supplement/2/p/p/whey-protein-essential-whey-protein-24g-protein-with-digestive-original-imaggz55ag8e3p7c.jpeg?q=70
+64ecd47e962a740752270d63
+
+Min. 50% Off
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rakhi Gifting Specials
+64ecd488962a740752270d65
+
+
+Rakhi Gifting Specials
+VIEW ALL
+
+1)
+Smart Watches
+https://rukminim2.flixcart.com/image/200/200/xif0q/smartwatch/k/h/s/1-83-38083pp01-android-ios-fastrack-yes-original-imagnhzeabmcfspe.jpeg?q=70
+Special offer
+64ecd488962a740752270d65
+
+2)
+Water Bottles & Flasks
+https://rukminim2.flixcart.com/image/200/200/ku5ufm80/bottle/o/v/l/1000-booster-hot-cold-steel-double-wall-vacuum-thermos-flask-original-imag7cg37pjf2gxh.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+3)
+Cookware Sets
+https://rukminim2.flixcart.com/image/200/200/l1whaq80/bowl/q/l/f/1-1-1-lky-original-imagdd776gbgpybn.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+4)
+Glasses
+https://rukminim2.flixcart.com/image/200/200/l367dzk0/glass/0/b/z/stainless-steel-water-juice-and-drinking-projain-steel-350-original-imagecy9gb85kgg9.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+5)
+Fresh Flowers
+https://rukminim2.flixcart.com/image/200/200/l367dzk0/glass/0/b/z/stainless-steel-water-juice-and-drinking-projain-steel-350-original-imagecy9gb85kgg9.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+6)
+Biscuit, Cookie And Rusk
+https://rukminim2.flixcart.com/image/200/200/l30hmkw0/cookie-biscuit/u/w/v/1-biscuit-balls-chocolate-munchies-for-cake-decoration-1kg-1-original-image84gty74gcef.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+7)
+Coffee Tables
+https://rukminim2.flixcart.com/image/200/200/l4zxn680/coffee-table/6/6/e/40-64-mdf-83-10-cftb-pr-rect-pedpix-43-18-black-original-imagfs2azv7zvbat.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+8)
+Artificial Flowers
+https://rukminim2.flixcart.com/image/200/200/k6gsk280/artificial-flower/p/v/k/7614721605-ssp-original-imafzwukuhc4ksev.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+9)
+Chocolates
+https://rukminim2.flixcart.com/image/200/200/xif0q/chocolate/h/q/r/-original-imagh2q4cz7sgcek.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+10)
+Sweets And Mixes
+https://rukminim2.flixcart.com/image/200/200/xif0q/sweet-mithai/2/h/5/800-bikaneri-premium-soan-papdi-ready-to-eat-dessert-flaky-soan-original-imags2gymbwt8tvq.jpeg?q=70
+Min. 50% Off
+64ecd488962a740752270d65
+
+Artificial Plants
+Artificial Plants
+Min. 50% Off
+
+Dry Fruits Gift Pack
+Dry Fruits Gift Pack
+Min. 50% Off
+
+
+
+Product fields:-
+title
+image
+description
+category_id
+price
+tax_percentage
+basic_unit
+quantity_sold
+limited
+active_for_sale
+in_stock
+product_id
+
+
+timestamp
+
+
+
+
+account

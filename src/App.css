@@ -1,0 +1,487 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.container
+{
+  width:60%;
+  margin-left:0px;
+}
+
+.bg-col1
+{
+background-color: rgb(70, 70, 231);
+}
+
+.dropdown-menu[data-bs-popper] {
+  top: 100%;
+  left: 61%;
+  margin-top: var(--bs-dropdown-spacer);
+}
+
+.bg-col2
+{
+background-color: rgb(248, 241, 241);
+}
+
+.bg-col3
+{
+background-color: white;
+}
+
+.bg-col4
+{
+background-color: rgb(252, 249, 249);
+}
+
+.bg-col5
+{
+background-color: #172337;
+}
+
+.bg-col6
+{
+  background-color:#dfeafd;
+}
+
+
+
+.btn-control1
+{
+    height:50px;
+    width:250px !important;
+    color:white;
+    font-weight: 500;
+    border-radius: 1px;
+}
+
+.box1
+{
+  border:1px solid rgb(241, 236, 236);
+  width: 600px;
+}
+
+.box2
+{
+  border:1px solid rgb(241, 236, 236);
+  width: 400px;
+  margin: auto;
+}
+
+.box3
+{
+  width: 300px;
+  height: 600px;
+  background-color: blue;
+}
+
+.box4
+{
+  width: 450px;
+  height: 600px;
+  background-color: white;
+  box-shadow: #ecedee;
+}
+
+.box5
+{
+  width: 800px;
+  height: 600px;
+  margin: auto;
+  
+}
+
+.box6
+{
+  width:100%;
+  border: 1px solid rgb(243, 238, 238);
+  margin: 0%;
+}
+
+.box7
+{
+  width:800px;
+  border: 1px solid rgb(243, 238, 238);
+}
+
+.box8
+{
+  width:400px;
+  border: 1px solid rgb(243, 238, 238);
+}
+
+.box10
+{
+  width: 250px;
+  height: 60px;
+  margin: auto;
+  border: 1px solid rgb(136, 31, 31);
+  margin-left:0;  
+}
+
+.box11
+{
+  height:400px;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+}
+
+.div-hg
+{
+  height: 380px;
+}
+
+.w-900
+{
+width:900px;
+align-items: center;
+}
+
+.bg-col1
+{
+background-color: rgb(52, 52, 201);
+}
+
+.header-frmt
+{
+  border-bottom: 1px solid rgb(194, 191, 191);
+}
+
+.links {
+  text-decoration: none;
+}
+
+
+
+a:hover {
+  color:#7a1e3d;
+  }
+
+.txt-frmt1
+{
+    font-size: 13pt;
+    color:white;
+    text-decoration: none;
+}
+
+.txt-frmt2
+{
+    font-size: 13pt;
+    color: rgb(61, 134, 61);
+    
+}
+
+.txt-frmt3
+{
+    font-size: 13pt;
+    text-decoration: none;
+    align-items: center;
+}
+
+.txt-frmt4
+{
+    font-size: 14pt;
+    font-weight: 500;
+    text-overflow: ellipsis;
+}
+
+.txt-frmt5
+{
+    font-size: 11pt;
+}
+
+.txt-frmt6
+{
+  font-size: 18pt;
+  font-family: Roboto,Arial,sans-serif;
+  color:white;
+}
+
+.txt-frmt7
+{
+  font-size: 13pt;
+  font-family: Roboto,Arial,sans-serif;
+  color:white;
+}
+
+.txt-frmt8
+{
+  font-size: 9pt;
+  font-family: Roboto,Arial,sans-serif;
+  color:rgb(160, 147, 147);
+}
+
+.txt-frmt9
+{
+  font-size: 13pt;
+  font-weight: 500;
+  background-color:#fb641b;
+  border-radius: 0;
+  color:white;
+  height:50px;
+}
+
+.txt-frmt10
+{
+  font-size: 12pt;
+  font-family: Roboto,Arial,sans-serif;
+  color:rgb(15, 12, 12);
+  text-align: center;
+}
+
+.txt-frmt11
+{
+  font-size: 9pt;
+  font-family: Roboto,Arial,sans-serif;
+  color: white;  
+  font-weight: 500;
+  padding-left: 20px;
+}
+
+.txt-frmt12
+{
+  color: #ffe500;  
+}
+
+.txt-frmt13
+{
+  font-size: 12pt;
+  color:rgb(15, 12, 12);
+  text-align: center;
+}
+
+.txt-frmt14
+{
+    font-size: 11pt;
+    color:rgb(12, 2, 2);
+    text-decoration: none;
+}
+
+.txt-frmt15
+{
+    font-size: 10pt;
+    color:rgb(31, 29, 29);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.txt-frmt16
+{
+    font-size: 12pt;
+    color:rgb(31, 29, 29);
+    text-decoration: none;
+    padding-top: 30px;
+    font-weight: 500;
+}
+
+.txt-frmt17
+{
+    font-size: 12pt;
+    color:rgb(31, 29, 29);
+    text-decoration: none;
+}
+
+.txt-frmt18
+{
+    font-size: 15pt;
+    color:rgb(31, 29, 29);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: 500;
+}
+
+.txt-frmt19
+{
+    font-size: 11pt;
+    color:#0bacec;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.txt-frmt20
+{
+  font-size: 9pt;
+  font-family: Roboto,Arial,sans-serif;
+  color:rgb(160, 147, 147);
+  text-decoration: none;
+}
+
+.txt-frmt21
+{
+  font-size: 9pt;
+  font-family: Roboto,Arial,sans-serif;
+  color:white;
+  text-decoration: none;
+}
+
+.txt-frmt22
+{
+  font-size: 10pt;
+  font-family: Roboto,Arial,sans-serif;
+  color:rgb(160, 147, 147);
+  text-decoration: none;
+}
+
+
+
+
+
+.brdr_prop
+{
+  border: 1px solid rgb(230, 224, 224);
+}
+
+.item-frmt
+{
+height:450px;
+}
+
+.card-height
+{
+height:600px;
+}
+
+.box-height
+{
+  height:600px;
+}
+
+.img-prop1
+{
+  align-items: center;
+}
+
+.img-prop2
+{
+  align-items: center;
+  text-align: center;
+  object-fit: cover;
+}
+
+.img-prop3
+{
+  align-items: center;
+  text-align: center;
+  object-fit:contain;
+}
+
+.img-prop4
+{
+  text-align: center;
+  align-items: center;
+  height:200px;
+}
+
+.img-prop5 {
+object-fit:contain;
+max-width: 200px;
+max-height: 250px;
+padding-top: 20px;
+}
+
+.img-prop6
+{
+    max-height: 350px;
+    height:100%;
+    max-width: 300px;
+    padding-left: 20px;
+    padding-right: 30px;
+    object-fit: contain;
+}
+
+.img-prop7
+{
+    max-height: 350px;
+    height:100%;
+    max-width: 250px;
+    margin-top: 20px;
+}
+
+.img-prop8
+{
+    max-height: 200px;
+    height:100%;
+    max-width: 100px;
+    margin-top: 10px;
+}
+
+
+
+.btn-control1
+{
+    height:50px;
+    width:250px !important;
+    color:white;
+    border-radius: 1px;
+}
+
+.btn-control2
+{
+    height:50px;
+    background-color:orange;
+}
+
+.btn-control3
+{
+    height:50px;
+    background-color:#fb641b;
+}
+
+.btn-control3:hover {
+  background-color:#ec8552;
+}
+
+.btn-control4
+{
+height:15px;
+}
+
+.frm_cntrl1
+{
+  margin-left:5px;
+  height:40px;
+}
+
+.frm_cntrl2
+{
+  height:40px;
+  width:150px;
+}
